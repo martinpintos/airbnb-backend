@@ -1,2 +1,8 @@
 node_modules/
 plugins/
+
+.checksums
+
+yarn.lock
+.npmignore
+.gitignore
